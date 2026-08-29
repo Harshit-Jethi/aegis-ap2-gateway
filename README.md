@@ -122,9 +122,9 @@ pip install -r requirements.txt
 Create and configure backend/.env:
 
 Code snippet
-RAZORPAY_KEY_ID=rzp_test_TTB0EsaAYGofS0
-RAZORPAY_KEY_SECRET=gJce4Ab90KDLv5VP2stnvh0X
-RAZORPAY_WEBHOOK_SECRET=aegis_webhook_secret_2026
+RAZORPAY_KEY_ID=rzp_test_your_key_id_here
+RAZORPAY_KEY_SECRET=your_key_secret_here
+RAZORPAY_WEBHOOK_SECRET=your_webhook_secret_here
 GEMINI_API_KEY=your_gemini_api_key_here
 MAX_ORDER_VALUE_INR=15000.0
 MAX_RETRY_LIMIT=10
