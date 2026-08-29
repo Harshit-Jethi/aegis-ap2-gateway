@@ -123,7 +123,7 @@ class AutonomousCommerceKernel:
         )
 
         exec_res = razorpay_gateway.execute_order(dummy_permit)
-
+    
         audit_logger.log_event(
             event_type="AI_SWARM_AP2_SETTLED",
             goal=goal,
