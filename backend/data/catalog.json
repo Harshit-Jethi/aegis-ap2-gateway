@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "HW-DEV-MONITOR-4K",
+    "name": "Ultra-Sharp 27-inch 4K Developer Monitor",
+    "category": "Displays",
+    "price_inr": 5500.0,
+    "stock_quantity": 10,
+    "description": "27-inch UHD 3840x2160 IPS display with USB-C 65W power delivery and anti-glare matte finish.",
+    "merchant_id": "merchant_rzp_001"
+  },
+  {
+    "sku": "HW-MECH-KEYBOARD-RGB",
+    "name": "Low-Profile Mechanical Keyboard",
+    "category": "Peripherals",
+    "price_inr": 3200.0,
+    "stock_quantity": 10,
+    "description": "Hot-swappable tactile brown switches, wireless 2.4GHz/Bluetooth, per-key RGB lighting.",
+    "merchant_id": "merchant_rzp_001"
+  },
+  {
+    "sku": "CLOUD-GPU-NODE-100H",
+    "name": "100 GPU Compute Hours (NVIDIA A10G)",
+    "category": "Cloud Compute",
+    "price_inr": 9000.0,
+    "stock_quantity": 10,
+    "description": "On-demand cloud instance with 24GB VRAM and dedicated 10Gbps networking for model training.",
+    "merchant_id": "merchant_rzp_001"
+  },
+  {
+    "sku": "HW-RACK-SERVER-ENTERPRISE",
+    "name": "Enterprise Server Rack Unit (1U)",
+    "category": "Infrastructure",
+    "price_inr": 48000.0,
+    "stock_quantity": 10,
+    "description": "Dual Xeon 64-core rackmount server with 256GB ECC DDR5 RAM. Exceeds standard procurement limits.",
+    "merchant_id": "merchant_rzp_001"
+  }
+]
